@@ -1,0 +1,15 @@
+{
+    "name": "mbuyi/book_hunter_poo_2026",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcel Mbuyi",
+            "email": "marcelmbuyi29@gmail.com"
+        }
+    ],
+    "require": {}
+}
