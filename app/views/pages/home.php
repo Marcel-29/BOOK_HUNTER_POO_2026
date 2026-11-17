@@ -1,3 +1,3 @@
 
 
-<?php include '../app/views/books/_populars';
+<?php include '../app/views/books/_populars.php';
